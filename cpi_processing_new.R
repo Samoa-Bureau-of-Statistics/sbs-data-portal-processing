@@ -1,3 +1,5 @@
+
+# Load libraries.
 library(readxl)
 library(dplyr)
 library(tidyr)
@@ -97,7 +99,6 @@ while (i <= numsheet) {
     # Export if desired
     write.csv(table_long_final, myfile , row.names = FALSE)
     
-    
   }else{
     
   # Process tables
@@ -177,7 +178,7 @@ while (i <= numsheet) {
   write.csv(final_sdmx, myfile , row.names = FALSE)
   
   } # End the if statement
-  message("😎 Starting CPI table processing...", sheet_names[i])
+  message("😎 Completed processing table", sheet_names[i])
   
   i <- i + 1
   
