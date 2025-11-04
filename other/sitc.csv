@@ -1,0 +1,12 @@
+sitcID,sitcDecs,sitcCode
+0,Food,SITC_0
+1,Beverages & Tobacco,SITC_1
+2,Crude Materials,SITC_2
+3,Mineral Fuels,SITC_3
+4,Oils & Fats,SITC_4
+5,Chemicals,SITC_5
+6,Manufactured Goods,SITC_6
+7,Machinery & Transport Equipment,SITC_7
+8,Miscellaneous Manufactured Goods,SITC_8
+9,Miscellaneous Commodities,SITC_9
+_T,SITC total,_T

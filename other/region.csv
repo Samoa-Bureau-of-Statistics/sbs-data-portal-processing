@@ -1,0 +1,8 @@
+REGCode,Regions,Coverage
+AFR,Africa,REG
+AME,America,REG
+ASI,Asia,REG
+EUR,Europe,REG
+OCE,Oceania,REG
+REG_OTH,Other regions,REG
+_T,Overall total,REG

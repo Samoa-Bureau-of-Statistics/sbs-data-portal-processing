@@ -1,0 +1,193 @@
+ITEM_Code,ITEM
+_T,All Items
+ITEM_01,Food and Non Alcoholic Beverages
+ITEM_01,01 Food and non-alcoholic beverages
+ITEM_01,Food and non-alcoholic beverages
+ITEM_01_01,Chicken leg quarters
+ITEM_01_02,Raw Sugar
+ITEM_01_03,Bread
+ITEM_01_04,Corned Beef Oxford
+ITEM_01_05,Taro
+ITEM_01_06,Re-packed medium grain rice
+ITEM_01_07,Prepacked medium grain rice
+ITEM_01_08,Keke Saina Biscuits
+ITEM_01_09,Ice Cream
+ITEM_01_10,Ramen
+ITEM_01_11,Fish (Piece)
+ITEM_01_12,Butter
+ITEM_01_13,Round Pancake
+ITEM_01_14,Mutton Flaps
+ITEM_01_15,Canned fish between $3.00 and $3.99 N/Oil
+ITEM_01_16,Canned fish $4:00 or over  N/Oil
+ITEM_01_17,Canned fish between $3.00 and $3.99 N/Oil
+ITEM_01_18,Canned fish under $3.00 in N/Oil
+ITEM_01_19,Turkey Wings
+ITEM_01_20,Fish (string)
+ITEM_01_21,Fish (large)
+ITEM_01_22,Cooking vegetable oil
+ITEM_01_23,Sausage beef
+ITEM_01_24,Chinese Cabbage
+ITEM_01_25,Eggs medium size
+ITEM_01_26,Flour plain white
+ITEM_01_27,Onions
+ITEM_01_28,Milk Devondale
+ITEM_01_29,Soft Drink Coke
+ITEM_01_30,Soft Drink Taxi
+ITEM_01_31,Milk Anchor
+ITEM_01_32,Salted Beef
+ITEM_01_33,Koko Samoa
+ITEM_01_34,Corned Beef Pacific
+ITEM_01_35,Green Banana
+ITEM_01_36,Cucumbers
+ITEM_01_37,Mutton Neck
+ITEM_01_38,Vermicelli Lungken
+ITEM_01_39,Tomatoes
+ITEM_01_40,Sausage Pork
+ITEM_01_41,Round Cabbage Round
+ITEM_01_42,Bongo
+ITEM_01_43,Ramen Kimchi (bowl)
+ITEM_01_44,Soy Souce Mushroom
+ITEM_01_45,Pork Pig Trotter
+ITEM_01_46,Corned Beef Palm
+ITEM_01_47,Ripe Banana
+ITEM_01_48,Tang powder
+ITEM_01_49,Minties Pascall
+ITEM_01_50,Potatoes
+ITEM_01_51,Apple small
+ITEM_01_52,Mineral Water
+ITEM_01_53,Chocolate Cake
+ITEM_01_54,Instant Nescafe Coffee
+ITEM_01_55,bell Tea Bags
+ITEM_01_56,Samco Twisties
+ITEM_01_57,Matured husked Coconuts
+ITEM_01_58,Matured Un husked Coconuts
+ITEM_01_59,Taamu
+ITEM_01_60,Canned fish Soifua in Tomato Sauce 
+ITEM_01_61,CCK Coffee
+ITEM_01_62,Sky Flakes Biscuits
+ITEM_01_63,Stewing beef
+ITEM_02,"Alcoholic Beverages, Tobacco and Narcotics"
+ITEM_02,"02 Alcoholic beverages, tobacco and narcotics"
+ITEM_02_01,Beer Vailima Lager
+ITEM_02_02,Pall Mall Filter Cigarettes (Red)
+ITEM_02_03,Pall Mall Menthol Cigarettes (Green)
+ITEM_02_04,Beer Taula
+ITEM_02_05,Tobacco winfield
+ITEM_02_06,Vodka Niu Spirit
+ITEM_02_07,Whisky Jim Bean Spirit
+ITEM_02_08,Paper Cigarettes
+ITEM_02_09,Samoan kava
+ITEM_03,Clothing and Footwear
+ITEM_03,03 Clothing and footwear
+ITEM_03_01,Uniform Ie Faitaga College boys
+ITEM_03_02,Uniform Pa'ave
+ITEM_03_03,Jandals soft
+ITEM_03_04,Ie solosolo cotton print
+ITEM_03_05,Shirt short sleeves men Aloha shirt
+ITEM_03_06,Shirt long sleeves men
+ITEM_03_07,Shoes Nike Running shoes
+ITEM_03_08,Ie Faitaga
+ITEM_03_09,Woman Nylon Panties
+ITEM_03_10,Puletasi mamanu palama
+ITEM_03_11,cargo shorts
+ITEM_04,"Housing,Water, Electricity, Gas and other Fuels"
+ITEM_04,"04 housing, water, electricity, gas and other fuels"
+ITEM_04,"housing, water, electricity, gas and other fuels"
+ITEM_04_01,Electricity Cashpower
+ITEM_04_02,Reservoir treated Water
+ITEM_04_03,Liquid gas
+ITEM_04_04,Government house Rent
+ITEM_04_05,Kerosene
+ITEM_04_06,Paint High gloss white
+ITEM_04_07,Paint Plus 2 plastic white
+ITEM_04_08,Cement NZ or Australia
+ITEM_04_09,Dressed per Timber 2x4
+ITEM_05,"Furnishings, Household Equipment, and Maintenance"
+ITEM_05,"05 furnishings, household equipment and routine household maintenance"
+ITEM_05,"furnishings, household equipment and routine household maintenance"
+ITEM_05_01,Washing powder
+ITEM_05_02,Washing Soap yellow
+ITEM_05_03,Mattress single Futon
+ITEM_05_04,Refridgerator common brand
+ITEM_05_05,Gold Power washing powder
+ITEM_05_06,Eveready AA size Batteries
+ITEM_05_07,Bush knive tramontina
+ITEM_05_08,Tumblers Glass basic no design
+ITEM_05_09,Sefe 3 shelves
+ITEM_05_10,Clothing chest flat top
+ITEM_05_11,Mosquito coil
+ITEM_05_12,babysitting live-in
+ITEM_05_13,Kerosene stove
+ITEM_06,Health
+ITEM_06,06 health
+ITEM_06_01,Amoxicillin 500mg tablets
+ITEM_06_02,Hospital Charge
+ITEM_06_03,Private Doctor Consultation fee
+ITEM_07,Transport
+ITEM_07,07 transport
+ITEM_07_01,Petrol
+ITEM_07_02,Taxi Fare P.O to Motootua Hosp
+ITEM_07_03,Taxi Fares P.O to Malua
+ITEM_07_04,Taxi Fares P.O to Falefa
+ITEM_07_05,Air Fares Faleolo-Pago-Faleolo
+ITEM_07_06,Air Fares Apia Auckland Apia
+ITEM_07_07,Used Car Toyota Corolla
+ITEM_07_08,Used Car Toyota Camry
+ITEM_07_09,Diesel
+ITEM_07_10,New Pickup Ford Ranger Double cab
+ITEM_07_11,New Pickup Toyota Hilux Double cab
+ITEM_07_12,Used Mini van Toyota Noah
+ITEM_07_13,Used Mini van Toyota Voxy
+ITEM_07_14,Car Tyre
+ITEM_07_15,Boat Fares Apia Pago Apia
+ITEM_07_16,bus fares apia motootua hosp
+ITEM_07_17,Bus Fares Apia Malua
+ITEM_07_18,Bus Fares Apia Falefa
+ITEM_07_19,Labour charge car repair
+ITEM_07_20,Boat Fares Mulifanua Salelologa
+ITEM_07_21,Car Registration (private car)
+ITEM_08,Communication
+ITEM_08,08 communication
+ITEM_08_01,Calling per minute Rate cell phone
+ITEM_08_02,Internet data bundles per mb Rate
+ITEM_08_03,Calling per minute Rate cell phone
+ITEM_08_04,Internet data bundles per mb Rate
+ITEM_08_05,Telephone Rental
+ITEM_08_06,Prepaid Internet 
+ITEM_08_07,Telephone call NZ 
+ITEM_08_08,Telephone call USA
+ITEM_08_09,Telephone call local 
+ITEM_09,Recreation and Culture
+ITEM_09,09 recreation and culture
+ITEM_09_01,"Television LCD 32"""
+ITEM_09_02,Exercise Book warwick
+ITEM_09_03,Laptop
+ITEM_09_04,Weedkiller Graxomone/Agriquat
+ITEM_09_05,News Paper Samoa Observer
+ITEM_09_06,Cinema Admission
+ITEM_09_07,News Paper Newsline
+ITEM_10,Education
+ITEM_10,10 education
+ITEM_10_01,Fees Tertiary NUS registration School Fees
+ITEM_10_02,Fees Secondary Y Examination Fees
+ITEM_10_03,Fees Primary PTA/registration fees
+ITEM_10_04,Fees Secondary PTA/registration fees
+ITEM_11,Restaurants
+ITEM_11,11 restaurants and hotels
+ITEM_11,restaurants and hotels
+ITEM_11_01,Fish & Chip Meal
+ITEM_11_02,Chicken & Chips Meal
+ITEM_11_03,Curry & Chopsuey Meal
+ITEM_11_04,Steam rice & chicken Meal
+ITEM_12,Miscellaneous goods and services
+ITEM_12,12 miscellaneous goods and services
+ITEM_12_01,Toilet Paper Sofan deluxe ply
+ITEM_12_02,Hair Gel
+ITEM_12_03,Toilet soap Protex
+ITEM_12_04,Diapers Soft Love
+ITEM_12_05,Toilet soap Lux
+ITEM_12_06,Paste Colgate regular flavour
+ITEM_12_07,Diapers Huggies
+ITEM_12_08,Storage of remains
+ITEM_12_09,Basic Casket
+ITEM_12_10,Standard Embalming

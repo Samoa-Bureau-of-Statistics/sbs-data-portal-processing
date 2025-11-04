@@ -1,0 +1,25 @@
+INDUSTRY,INDUSTRY_DESC
+ISIC31_A011TA014,Agriculture
+ISIC31_B,Fishing
+ISIC31_D15,Food & Beverages manufacturing
+ISIC31_D15,Food & Beverages manufac turing
+ISIC31_D_XD15,Other manufac turing
+ISIC31_E401_E41,Electricity and Water
+ISIC31_F,Construction
+ISIC31_G,Commerce
+ISIC31_J,Financial Services
+ISIC31_K72TK74,Business Services
+ISIC31_P,Owner-occupied dwellings
+ISIC31_L,Public Administration
+ISIC31_O,Personal & Other Services
+FISIM,FISIM
+FISIM,Less FISIM
+NOMGDPBP,Nominal GDP at basic prices
+REALGDPBP,Real GDP at basic prices
+TAXSUB,Taxes less Subsidies on Products
+NOMGDPPP,Nominal GDP at purchaser price
+REALGDPPP,Real GDP at purchaser price
+IMPDEF,Implicit Price Deflator
+ISIC31_I60TI63,Transport
+ISIC31_H,Accommodation & Restaurants
+ISIC31_I64,Communication
